@@ -1,4 +1,4 @@
-# Social-Media-Posts-Analysis
+# iPhone 8/iPhone X and Samsung Galaxy Comparison through social media posts
 Social Media Posts Analysis on Samsung Galaxy and iPhone
 
 ## Business Problems
